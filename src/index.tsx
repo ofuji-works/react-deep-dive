@@ -1,6 +1,7 @@
 import { mount } from "./core";
 
 export const App = () => {
+  // @ts-ignore
   return <h1>Hello World</h1>;
 };
 
